@@ -1,31 +1,11 @@
-*.py[cod]
-
-# C extensions
-*.so
-
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
+.DS_Store
+*.pyc
+.bzr
+.bzrignore
 bin
-var
-sdist
+eggs
 develop-eggs
+parts
+.mr.developer.cfg
 .installed.cfg
-lib
-lib64
-__pycache__
-
-# Installer logs
-pip-log.txt
-
-# Unit test / coverage reports
-.coverage
-.tox
-nosetests.xml
-
-# Translations
-*.mo
 
